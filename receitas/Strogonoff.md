@@ -1,10 +1,6 @@
 # **Strogonoff de Frango**
 
-
-
 ### Ingredientes
-
-#### 
 
 - 4 colheres (sopa) de manteiga
 - 1 kg de filé de frango em tiras finas
@@ -19,8 +15,6 @@
 - 1 lata de NESTLÉ® Creme de Leite
 
 ### Modo de preparo
-
-### 
 
 Em uma frigideira grande, derreta três colheres (sopa) da manteiga e doure o frango, aos poucos, em fogo alto.
 
